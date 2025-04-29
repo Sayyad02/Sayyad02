@@ -18,7 +18,7 @@ I'm passionate about **Data-driven decision-making** and **Business Intelligence
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,excel,azure,mysql,machinelearning,docker,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,excel,azure,mysql,docker,git&perline=7" />
     </a>
 </p>
 
