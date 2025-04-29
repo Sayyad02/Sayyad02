@@ -1,4 +1,4 @@
-### Hi there, I'm Sayyad! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Sayyad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm passionate about **Data-driven decision-making** and **Business Intelligence** 📈. I love building things for the web and exploring the world of **Data Science & Machine Learning** 🤖.
 
