@@ -1,4 +1,4 @@
-### Hi there, I'm Ali! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Ali..!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm passionate about **Data-driven decision-making** and **Business Intelligence** 📈. I love building things for the web and exploring the world of **Data Science & Machine Learning** 🤖.
 
@@ -18,7 +18,7 @@ I'm passionate about **Data-driven decision-making** and **Business Intelligence
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,excel,azure,mysql,docker,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,excel,azure,mysql,machinelearning,docker,git&perline=7" />
     </a>
 </p>
 
