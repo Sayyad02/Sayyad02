@@ -1,4 +1,4 @@
-### Hi there, I'm Sayyad! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Ali..! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm passionate about **Data-driven decision-making** and **Business Intelligence** 📈. I love building things for the web and exploring the world of **Data Science & Machine Learning** 🤖.
 
@@ -26,15 +26,7 @@ I'm passionate about **Data-driven decision-making** and **Business Intelligence
 
 ### 📊 My GitHub Statistics
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayyad02&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
+<br/> <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayyad02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Sayyad02's GitHub Stats"/>
  </a>
