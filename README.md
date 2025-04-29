@@ -61,6 +61,6 @@ I'm passionate about **Data-driven decision-making** and **Business Intelligence
 ---
 
     
-###                                                                                                                                         SYED SHAFIN ALI 
-<p align="center">
+<p align="right">
+SYED SHAFIN ALI
 </p>
